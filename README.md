@@ -7,7 +7,7 @@ The project demonstrates my understanding of fundamental web development concept
 ---
 
 ## 🔗 Live Website
-👉 Visit here: [Click to View Portfolio](YOUR_LIVE_LINK_HERE)
+👉 Visit here: [Click to View Portfolio](https://thangamanir27.github.io/portfolio-simple-website/))
 
 ---
 
